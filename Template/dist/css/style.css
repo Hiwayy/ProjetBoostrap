@@ -8068,7 +8068,7 @@ html:not([dir=rtl]) .header-nav {
 
 .sidebar {
   --cui-sidebar-width: 16rem;
-  --cui-sidebar-bg: #3c4b64;
+  --cui-sidebar-bg: #373737;
   --cui-sidebar-padding-x: 0;
   --cui-sidebar-padding-y: 0;
   --cui-sidebar-color: rgba(255, 255, 255, 0.87);
@@ -8076,12 +8076,12 @@ html:not([dir=rtl]) .header-nav {
   --cui-sidebar-border-color: transparent;
   --cui-sidebar-brand-color: rgba(255, 255, 255, 0.87);
   --cui-sidebar-brand-height: 4rem;
-  --cui-sidebar-brand-bg: rgba(0, 0, 21, 0.2);
+  --cui-sidebar-brand-bg: /*rgba(0, 0, 21, 0.2)*/ #373737;
   --cui-sidebar-header-height: 4rem;
-  --cui-sidebar-header-bg: rgba(0, 0, 21, 0.2);
+  --cui-sidebar-header-bg: /*rgba(0, 0, 21, 0.2)*/ #373737;
   --cui-sidebar-header-padding-x: 1rem;
   --cui-sidebar-header-padding-y: 0.75rem;
-  --cui-sidebar-footer-bg: rgba(0, 0, 21, 0.2);
+  --cui-sidebar-footer-bg: /*rgba(0, 0, 21, 0.2)*/ #373737;
   --cui-sidebar-footer-height: auto;
   --cui-sidebar-footer-padding-x: 1rem;
   --cui-sidebar-footer-padding-y: 0.75rem;
@@ -8100,7 +8100,7 @@ html:not([dir=rtl]) .header-nav {
   --cui-sidebar-nav-link-padding-x: 1rem;
   --cui-sidebar-nav-link-padding-y: 0.8445rem;
   --cui-sidebar-nav-link-color: rgba(255, 255, 255, 0.6);
-  --cui-sidebar-nav-link-bg: transparent;
+  --cui-sidebar-nav-link-bg: #464646;
   --cui-sidebar-nav-link-border-color: transparent;
   --cui-sidebar-nav-link-border: 0 solid var(--cui-sidebar-nav-link-border-color);
   --cui-sidebar-nav-link-border-radius: 0;
@@ -8116,7 +8116,7 @@ html:not([dir=rtl]) .header-nav {
   --cui-sidebar-nav-icon-height: 1.25rem;
   --cui-sidebar-nav-icon-font-size: 1.25rem;
   --cui-sidebar-nav-link-icon-color: rgba(255, 255, 255, 0.6);
-  --cui-sidebar-nav-group-bg: rgba(0, 0, 0, 0.2);
+  --cui-sidebar-nav-group-bg: #464646;
   --cui-sidebar-nav-group-items-padding-y: 0;
   --cui-sidebar-nav-group-items-padding-x: 0;
   --cui-sidebar-nav-group-indicator: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='rgba%28255, 255, 255, 0.6%29'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
