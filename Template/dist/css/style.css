@@ -8385,7 +8385,7 @@ html:not([dir=rtl]) .sidebar-close {
   width: inherit;
   padding: 0;
   cursor: pointer;
-  background-color: var(--cui-sidebar-toggler-bg);
+  background-color: #373737;
   border: 0;
 }
 @media (max-width: 767.98px) {
